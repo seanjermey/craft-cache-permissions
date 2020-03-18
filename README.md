@@ -1,0 +1,43 @@
+# Cache Permissions plugin for Craft CMS 3.x
+
+Plugin allows you to restrict who can clear each cache group based on their user group.
+
+![Screenshot](resources/img/plugin-logo.svg)
+
+## Requirements
+
+This plugin requires Craft CMS 3.0.0-beta.23 or later.
+
+## Installation
+
+To install the plugin, follow these instructions.
+
+1. Open your terminal and go to your Craft project:
+
+        cd /path/to/project
+
+2. Then tell Composer to load the plugin:
+
+        composer require seanjermey/cache-permissions
+
+3. In the Control Panel, go to Settings → Plugins and click the “Install” button for Cache Permissions.
+
+## Cache Permissions Overview
+
+Individually choose which caches a user group can clear.
+
+![Screenshot](resources/img/permissions.png)
+
+Users will only be able to clear the caches they have permission for.
+
+![Screenshot](resources/img/caches.png)
+
+Works great with [CP Clear Cache](https://plugins.craftcms.com/cp-clearcache)
+
+## Cache Permissions Roadmap
+
+Some things to do, and ideas for potential features:
+
+* Release it
+
+Brought to you by [Sean Jermey](https://github.com/seanjermey)

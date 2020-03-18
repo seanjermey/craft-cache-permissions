@@ -30,7 +30,7 @@ Individually choose which caches a user group can clear.
 
 Users will only be able to clear the caches they have permission for.
 
-<img src="https://github.com/seanjermey/craft-cache-permissions/raw/master/resources/img/caches.png" width="350">
+<img src="https://github.com/seanjermey/craft-cache-permissions/raw/master/resources/img/caches.png" width="500">
 
 Works great with [CP Clear Cache](https://plugins.craftcms.com/cp-clearcache)
 

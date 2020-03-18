@@ -26,11 +26,11 @@ To install the plugin, follow these instructions.
 
 Individually choose which caches a user group can clear.
 
-<img src="https://github.com/seanjermey/craft-cache-permissions/raw/master/resources/img/permissions.png" width="200">
+<img src="https://github.com/seanjermey/craft-cache-permissions/raw/master/resources/img/permissions.png" width="250">
 
 Users will only be able to clear the caches they have permission for.
 
-<img src="https://github.com/seanjermey/craft-cache-permissions/raw/master/resources/img/caches.png" width="200">
+<img src="https://github.com/seanjermey/craft-cache-permissions/raw/master/resources/img/caches.png" width="350">
 
 Works great with [CP Clear Cache](https://plugins.craftcms.com/cp-clearcache)
 

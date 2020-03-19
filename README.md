@@ -34,6 +34,6 @@ Users will only be able to clear the caches they have permission for.
 
 Works great with [CP Clear Cache](https://plugins.craftcms.com/cp-clearcache)
 
-
+---
 
 Brought to you by [Sean Jermey](https://github.com/seanjermey)
